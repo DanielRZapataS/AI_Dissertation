@@ -1,3 +1,6 @@
 *.csv
 *.npy
 *.gz
+input/*
+.ipynb_checkpoints
+.gz
