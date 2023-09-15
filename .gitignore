@@ -4,4 +4,5 @@
 input/*
 .ipynb_checkpoints
 .gz
-.png
+*.png
+plot/*
